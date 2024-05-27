@@ -1,6 +1,8 @@
 ## About Me
-Hi! I am a student researcher at KIST and Ph.D. student at YSU Theory of Computation Lab 👋   
+Hi! I am a student researcher at KIST and Ph.D. student at YSU Theory of Computation Lab ❤   
 
+- 👀 I'm interested in Multimodal Machine Learning   
+- 💌 Feel free to [Email](ljw00@kist.re.kr) me!
 
 <!--
 **leejiwon1202/leejiwon1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
