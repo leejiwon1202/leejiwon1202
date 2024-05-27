@@ -1,5 +1,5 @@
 ## About Me
-Hi! I am a student researcher at KIST and Ph.D. student at YSU Theory of Computation Lab ❤   
+Hi! I am a student researcher at KIST and Ph.D. student at YSU Theory of Computation Lab 😊   
 
 - 👀 I'm interested in Multimodal Machine Learning   
 - 💌 Feel free to [Email](ljw00@kist.re.kr) me!
