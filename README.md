@@ -1,5 +1,5 @@
 ## About Me
-Hi! I am a student researcher at KIST and Ph.D. student at YSU Theory of Computation Lab 😊   
+Hi! I am a student researcher at KIST and Ph.D. student at Yonsei University Theory of Computation Lab 😊   
 
 - 👩🏻 This is my [CV](https://leejiwon1202.github.io/)
 - 👀 I'm interested in Multimodal Deep Learning   
