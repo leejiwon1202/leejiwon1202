@@ -1,4 +1,6 @@
-## Hi there 👋
+## About Me
+Hi! I am a student researcher at KIST and Ph.D. student at YSU Theory of Computation Lab 👋   
+
 
 <!--
 **leejiwon1202/leejiwon1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
