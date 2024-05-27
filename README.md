@@ -3,7 +3,7 @@ Hi! I am a student researcher at KIST and Ph.D. student at YSU Theory of Computa
 
 - 👩🏻 This is my [CV](https://leejiwon1202.github.io/)
 - 👀 I'm interested in Multimodal Deep Learning   
-- 💌 Feel free to [Email](ljw00@kist.re.kr) me!
+- 💌 Feel free to [Email](ljw00@kist.re.kr) me
 - 👋 Come visit my [Blog](https://happy-support.tistory.com/) and check out my posts!
 
 <!--
